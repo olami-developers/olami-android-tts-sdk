@@ -16,7 +16,7 @@
 	limitations under the License.
 */
 
-package ai.olami.android.examples;
+package ai.olami.android.example;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
